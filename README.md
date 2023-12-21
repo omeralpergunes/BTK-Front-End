@@ -51,5 +51,7 @@ TodoForm.js
 Kullanıcının istediği görevi yazabileceği ve ekleyebilmek için tıklayacağı butonu “TodoForm.js” üzerinde kodluyoruz.
 
 PROJE SAYFASI
- ![image](https://github.com/omeralpergunes/BTK-Front-End/assets/73720725/7c065a51-3c4f-42cb-b899-a17c1cecd0fd)
+
+
+![image](https://github.com/omeralpergunes/BTK-Front-End/assets/73720725/7c065a51-3c4f-42cb-b899-a17c1cecd0fd)
 
